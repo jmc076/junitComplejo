@@ -3,7 +3,6 @@
   <groupId>junitComplejo</groupId>
   <artifactId>junitComplejo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-//prueba
   
   <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
